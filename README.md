@@ -1,2 +1,1 @@
-My project
-Git PR туршилт
+Initial commit on main
